@@ -82,4 +82,5 @@ mostrando a importância da proteção de rede
 contra varreduras externas.
 
 
-![Exemplo Funcional](images/scanativo.png)
+<img width="636" height="478" alt="scanativo png" src="https://github.com/user-attachments/assets/eb4481d4-25bf-4465-bcb7-27fd408d7f57" />
+
