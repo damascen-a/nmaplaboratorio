@@ -80,3 +80,6 @@ O laboratório demonstrou que, com o firewall ativo,
 todas as portas escaneadas foram filtradas,
 mostrando a importância da proteção de rede
 contra varreduras externas.
+
+
+![Exemplo Funcional](images/scanativo.png)
